@@ -16,7 +16,7 @@ console.log(percentAsDecimal * number); // 5.1
  */
 let eachSide = 4.75;
 console.log(eachSide * eachSide); // 22.5625
-/* Q5. Calculate the perimeter of a triangle. Assume the length of the sides are 5cm, 6cm, 7cm. */
+/* Q5.Calculate the perimeter of a triangle. Assume the length of the sides are 5cm, 6cm, 7cm. */
 let sideOne = 5;
 let sideTwo = 6;
 let sideTree = 7;
